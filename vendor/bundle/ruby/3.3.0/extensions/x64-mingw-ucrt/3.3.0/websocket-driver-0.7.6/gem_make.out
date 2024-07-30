@@ -1,0 +1,19 @@
+current directory: C:/Users/ema_s/VocaloMatch/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+C:/Ruby33-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: C:/Users/ema_s/VocaloMatch/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240728-63516-gkp370 sitelibdir\=./.gem.20240728-63516-gkp370 clean
+
+current directory: C:/Users/ema_s/VocaloMatch/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240728-63516-gkp370 sitelibdir\=./.gem.20240728-63516-gkp370
+generating websocket_mask-x64-mingw-ucrt.def
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: C:/Users/ema_s/VocaloMatch/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240728-63516-gkp370 sitelibdir\=./.gem.20240728-63516-gkp370 install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20240728-63516-gkp370
+
+current directory: C:/Users/ema_s/VocaloMatch/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240728-63516-gkp370 sitelibdir\=./.gem.20240728-63516-gkp370 clean

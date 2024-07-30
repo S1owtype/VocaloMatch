@@ -1,0 +1,32 @@
+current directory: C:/Users/ema_s/VocaloMatch/vendor/bundle/ruby/3.3.0/gems/psych-5.1.2/ext/psych
+C:/Ruby33-x64/bin/ruby.exe extconf.rb
+checking for pkg-config for yaml-0.1... not found
+checking for yaml.h... yes
+checking for yaml_get_version() in -lyaml... yes
+creating Makefile
+
+current directory: C:/Users/ema_s/VocaloMatch/vendor/bundle/ruby/3.3.0/gems/psych-5.1.2/ext/psych
+make DESTDIR\= sitearchdir\=./.gem.20240729-97364-p236r9 sitelibdir\=./.gem.20240729-97364-p236r9 clean
+cd libyaml && make clean
+/bin/sh: 1 行: cd: libyaml: No such file or directory
+make: [Makefile:287: clean-so] エラー 1 (無視されました)
+
+current directory: C:/Users/ema_s/VocaloMatch/vendor/bundle/ruby/3.3.0/gems/psych-5.1.2/ext/psych
+make DESTDIR\= sitearchdir\=./.gem.20240729-97364-p236r9 sitelibdir\=./.gem.20240729-97364-p236r9
+generating psych-x64-mingw-ucrt.def
+compiling psych.c
+compiling psych_emitter.c
+compiling psych_parser.c
+compiling psych_to_ruby.c
+compiling psych_yaml_tree.c
+linking shared-object psych.so
+
+current directory: C:/Users/ema_s/VocaloMatch/vendor/bundle/ruby/3.3.0/gems/psych-5.1.2/ext/psych
+make DESTDIR\= sitearchdir\=./.gem.20240729-97364-p236r9 sitelibdir\=./.gem.20240729-97364-p236r9 install
+/usr/bin/install -c -m 0755 psych.so ./.gem.20240729-97364-p236r9
+
+current directory: C:/Users/ema_s/VocaloMatch/vendor/bundle/ruby/3.3.0/gems/psych-5.1.2/ext/psych
+make DESTDIR\= sitearchdir\=./.gem.20240729-97364-p236r9 sitelibdir\=./.gem.20240729-97364-p236r9 clean
+cd libyaml && make clean
+/bin/sh: 1 行: cd: libyaml: No such file or directory
+make: [Makefile:287: clean-so] エラー 1 (無視されました)

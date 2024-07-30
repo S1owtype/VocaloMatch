@@ -1,0 +1,19 @@
+current directory: C:/Users/ema_s/VocaloMatch/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+C:/Ruby33-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: C:/Users/ema_s/VocaloMatch/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240729-35156-10s2vn sitelibdir\=./.gem.20240729-35156-10s2vn clean
+
+current directory: C:/Users/ema_s/VocaloMatch/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240729-35156-10s2vn sitelibdir\=./.gem.20240729-35156-10s2vn
+generating cruby-x64-mingw-ucrt.def
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: C:/Users/ema_s/VocaloMatch/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240729-35156-10s2vn sitelibdir\=./.gem.20240729-35156-10s2vn install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20240729-35156-10s2vn/skiptrace/internal
+
+current directory: C:/Users/ema_s/VocaloMatch/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240729-35156-10s2vn sitelibdir\=./.gem.20240729-35156-10s2vn clean
